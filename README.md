@@ -1,1 +1,1 @@
-# cfa_git_ws
+## Git and Github Workshop
