@@ -11,5 +11,3 @@ print("another main2")
 
 # Demo Starting here
 print("Hi This is from subbranch2")
-for i in range(3):
-    print(i)
